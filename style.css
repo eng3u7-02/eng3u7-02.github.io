@@ -26,6 +26,11 @@ h2
 color: white;
 }
 
+h3
+{
+color: white;  
+}
+
 a:link
 {
   color: blue;
