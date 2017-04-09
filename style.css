@@ -9,6 +9,7 @@ margin-right: 5%;
 background-repeat: repeat-y;
 background-size: cover;
 background-position:50% 50%;
+image-rendering: -webkit-optimize-contrast;
 }
 
 p
