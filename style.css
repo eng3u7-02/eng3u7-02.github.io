@@ -5,7 +5,7 @@ body
 margin-top: 5%;
 margin-left: 5%;
 margin-bottom: 5%;
-margin-right: 5%
+margin-right: 5%;
 }
 
 p
@@ -13,7 +13,6 @@ p
 text-align: justify;
 font-size: 12pt;
 color: black;
-padding: 12pt;
 }
 
 h1
