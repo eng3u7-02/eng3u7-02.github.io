@@ -1,0 +1,27 @@
+/* Helen and Carrie: Illuminated Text*/
+
+body
+{
+margin-top: 5%;
+margin-left: 10%;
+margin-bottom: 5%;
+margin-right: 10%
+}
+
+p
+{
+text-align: justify;
+font-size: 12pt;
+color: black;
+padding: 12pt;
+}
+
+h1
+{
+color: black;
+}
+
+h2
+{
+color: blue;
+}
