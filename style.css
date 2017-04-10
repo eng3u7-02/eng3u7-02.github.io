@@ -10,7 +10,8 @@ background-repeat: repeat-y;
 background-size: cover;
 background-position:50% 50%;
 image-rendering: -webkit-optimize-contrast;
-max-width: 100%
+max-width: 100%;
+height: auto;
 }
 
 p
